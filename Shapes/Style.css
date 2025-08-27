@@ -8,11 +8,13 @@ html,body{
 }
 body{
     background-color: antiquewhite;
-    display: flex;
 }
 div{
     height: 200px;
     width: 200px;
+}
+main{
+    display: flex;
 }
 #box1{
     background-color: rgb(253, 4, 4);
